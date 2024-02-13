@@ -1,0 +1,1545 @@
+run:
+Welcome to the Travel Booking System!
+Choose your role:
+1. Travel Agency
+2. Passenger
+3. Exit
+
+Choose your option: 1
+
+System successfully initialized for the 'Travel Agency'
+
+Travel Agency Main Menu:
+1. Create Packages
+2. Display Package Details
+3. Display Passengers
+4. Exit
+Enter your choice: 1
+Enter the New Tour Package Name: 
+Canada Tour
+Enter the passenger capacity of the travel package (Note: Only number): 
+1
+How many destinations does the package have? (Note: Only number)
+2
+Enter the name of destination 1: 
+Banff Forest
+How many activities does the destination have? (Note: Only number)
+2
+Enter the name of activity 1 for destination Banff Forest: 
+Treckking
+Enter the description of activity 1 for destination Banff Forest: 
+Explore the Flora and Fauna
+Enter the cost of activity 1 for destination Banff Forest: 
+40
+Enter the capacity of activity 1 for destination Banff Forest: 
+1
+Enter the name of activity 2 for destination Banff Forest: 
+Cycling
+Enter the description of activity 2 for destination Banff Forest: 
+Enjoy the nature breeze
+Enter the cost of activity 2 for destination Banff Forest: 
+10
+Enter the capacity of activity 2 for destination Banff Forest: 
+1
+Enter the name of destination 2: 
+Niagra Falls
+How many activities does the destination have? (Note: Only number)
+2
+Enter the name of activity 1 for destination Niagra Falls: 
+Boating
+Enter the description of activity 1 for destination Niagra Falls: 
+Pedal into the beautiful waterfalls
+Enter the cost of activity 1 for destination Niagra Falls: 
+60
+Enter the capacity of activity 1 for destination Niagra Falls: 
+2
+Enter the name of activity 2 for destination Niagra Falls: 
+Feeding
+Enter the description of activity 2 for destination Niagra Falls: 
+Get a chance to feed dolphins in nearby waterpark
+Enter the cost of activity 2 for destination Niagra Falls: 
+30
+Enter the capacity of activity 2 for destination Niagra Falls: 
+2
+Travel package created successfully!!!!
+
+Travel Agency Main Menu:
+1. Create Packages
+2. Display Package Details
+3. Display Passengers
+4. Exit
+Enter your choice: 1
+Enter the New Tour Package Name: 
+Dubai Tour
+Enter the passenger capacity of the travel package (Note: Only number): 
+3
+How many destinations does the package have? (Note: Only number)
+3
+Enter the name of destination 1: 
+Qatar
+How many activities does the destination have? (Note: Only number)
+2
+Enter the name of activity 1 for destination Qatar: 
+Swimming
+Enter the description of activity 1 for destination Qatar: 
+Join the Watersports event
+Enter the cost of activity 1 for destination Qatar: 
+60
+Enter the capacity of activity 1 for destination Qatar: 
+5
+Enter the name of activity 2 for destination Qatar: 
+Running
+Enter the description of activity 2 for destination Qatar: 
+Join the 20K running event
+Enter the cost of activity 2 for destination Qatar: 
+50
+Enter the capacity of activity 2 for destination Qatar: 
+5
+Enter the name of destination 2: 
+Atlantis
+How many activities does the destination have? (Note: Only number)
+3
+Enter the name of activity 1 for destination Atlantis: 
+Relaxe
+Enter the description of activity 1 for destination Atlantis: 
+Enjoy the holiday packs with 30% discount
+Enter the cost of activity 1 for destination Atlantis: 
+100
+Enter the capacity of activity 1 for destination Atlantis: 
+5
+Enter the name of activity 2 for destination Atlantis: 
+Explore
+Enter the description of activity 2 for destination Atlantis: 
+Atlantis is considered as 8th wonder, come and explore
+Enter the cost of activity 2 for destination Atlantis: 
+20
+Enter the capacity of activity 2 for destination Atlantis: 
+3
+Enter the name of activity 3 for destination Atlantis: 
+Racing
+Enter the description of activity 3 for destination Atlantis: 
+Get a chance to win premium cars on winning the race
+Enter the cost of activity 3 for destination Atlantis: 
+100
+Enter the capacity of activity 3 for destination Atlantis: 
+2
+Enter the name of destination 3: 
+Burj Khalifa
+How many activities does the destination have? (Note: Only number)
+1
+Enter the name of activity 1 for destination Burj Khalifa: 
+Skydive
+Enter the description of activity 1 for destination Burj Khalifa: 
+Skydive from the tallest building of the world
+Enter the cost of activity 1 for destination Burj Khalifa: 
+150
+Enter the capacity of activity 1 for destination Burj Khalifa: 
+3
+Travel package created successfully!!!!
+
+Travel Agency Main Menu:
+1. Create Packages
+2. Display Package Details
+3. Display Passengers
+4. Exit
+Enter your choice: 2
+Displaying details...
+Package Name: Canada Tour
+Passenger Capacity: 1
+	Destination Name: Banff Forest
+		Activity Name: Treckking
+		Description: Explore the Flora and Fauna
+		Cost: 40.0
+		Capacity: 1
+		Activity Name: Cycling
+		Description: Enjoy the nature breeze
+		Cost: 10.0
+		Capacity: 1
+	Destination Name: Niagra Falls
+		Activity Name: Boating
+		Description: Pedal into the beautiful waterfalls
+		Cost: 60.0
+		Capacity: 2
+		Activity Name: Feeding
+		Description: Get a chance to feed dolphins in nearby waterpark
+		Cost: 30.0
+		Capacity: 2
+
+Package Name: Dubai Tour
+Passenger Capacity: 3
+	Destination Name: Qatar
+		Activity Name: Swimming
+		Description: Join the Watersports event
+		Cost: 60.0
+		Capacity: 5
+		Activity Name: Running
+		Description: Join the 20K running event
+		Cost: 50.0
+		Capacity: 5
+	Destination Name: Atlantis
+		Activity Name: Relaxe
+		Description: Enjoy the holiday packs with 30% discount
+		Cost: 100.0
+		Capacity: 5
+		Activity Name: Explore
+		Description: Atlantis is considered as 8th wonder, come and explore
+		Cost: 20.0
+		Capacity: 3
+		Activity Name: Racing
+		Description: Get a chance to win premium cars on winning the race
+		Cost: 100.0
+		Capacity: 2
+	Destination Name: Burj Khalifa
+		Activity Name: Skydive
+		Description: Skydive from the tallest building of the world
+		Cost: 150.0
+		Capacity: 3
+
+
+Travel Agency Main Menu:
+1. Create Packages
+2. Display Package Details
+3. Display Passengers
+4. Exit
+Enter your choice: 3
+Printing Passenger List for Travel Packages...
+Travel Package Name: Canada Tour
+Passenger Capacity: 1
+Number of Passengers Enrolled: 0
+
+Travel Package Name: Dubai Tour
+Passenger Capacity: 3
+Number of Passengers Enrolled: 0
+
+
+Travel Agency Main Menu:
+1. Create Packages
+2. Display Package Details
+3. Display Passengers
+4. Exit
+Enter your choice: 4
+Exiting Travel Agency. Goodbye!
+Welcome to the Travel Booking System!
+Choose your role:
+1. Travel Agency
+2. Passenger
+3. Exit
+
+Choose your option: 2
+Passenger Interaction System
+1. New Passenger
+Enter your choice: 1
+Enter your name: Akhil
+Enter passenger type (Standard, Gold, Premium): Standard
+Enter initial balance: 100
+Hello, Akhil! Welcome to our travel agency.
+
+Options:
+1. Choose a Tour Package
+2. Display Enrolled Packages
+3. Display Final Details
+4. Print Passenger Details
+5. Exit
+Enter your choice: 1
+Available Travel Packages:
+1)Package Name: Canada Tour
+Passenger Capacity: 1
+Destinations:
+ - Destination Name: Banff Forest
+   Activities:
+   - Activity Name: Treckking
+     Description: Explore the Flora and Fauna
+     Capacity: 1
+     Cost: 40.0
+   - Activity Name: Cycling
+     Description: Enjoy the nature breeze
+     Capacity: 1
+     Cost: 10.0
+ - Destination Name: Niagra Falls
+   Activities:
+   - Activity Name: Boating
+     Description: Pedal into the beautiful waterfalls
+     Capacity: 2
+     Cost: 60.0
+   - Activity Name: Feeding
+     Description: Get a chance to feed dolphins in nearby waterpark
+     Capacity: 2
+     Cost: 30.0
+------------------------------
+2)Package Name: Dubai Tour
+Passenger Capacity: 3
+Destinations:
+ - Destination Name: Qatar
+   Activities:
+   - Activity Name: Swimming
+     Description: Join the Watersports event
+     Capacity: 5
+     Cost: 60.0
+   - Activity Name: Running
+     Description: Join the 20K running event
+     Capacity: 5
+     Cost: 50.0
+ - Destination Name: Atlantis
+   Activities:
+   - Activity Name: Relaxe
+     Description: Enjoy the holiday packs with 30% discount
+     Capacity: 5
+     Cost: 100.0
+   - Activity Name: Explore
+     Description: Atlantis is considered as 8th wonder, come and explore
+     Capacity: 3
+     Cost: 20.0
+   - Activity Name: Racing
+     Description: Get a chance to win premium cars on winning the race
+     Capacity: 2
+     Cost: 100.0
+ - Destination Name: Burj Khalifa
+   Activities:
+   - Activity Name: Skydive
+     Description: Skydive from the tallest building of the world
+     Capacity: 3
+     Cost: 150.0
+------------------------------
+Select a Travel Package (enter package number): 1
+You have selected the package: Canada Tour
+Passenger: Akhil (ID: 1001)
+Available Activities:
+Destination: Banff Forest
+ - Activity: Treckking
+   Description: Explore the Flora and Fauna
+   Capacity: 1
+   Cost: 40.0
+ - Activity: Cycling
+   Description: Enjoy the nature breeze
+   Capacity: 1
+   Cost: 10.0
+Destination: Niagra Falls
+ - Activity: Boating
+   Description: Pedal into the beautiful waterfalls
+   Capacity: 2
+   Cost: 60.0
+ - Activity: Feeding
+   Description: Get a chance to feed dolphins in nearby waterpark
+   Capacity: 2
+   Cost: 30.0
+Select an Activity (enter activity name or 'confirm' to confirm booking): Cycling
+
+Enrolled in activity: Cycling
+Available Activities:
+Destination: Banff Forest
+ - Activity: Treckking
+   Description: Explore the Flora and Fauna
+   Capacity: 1
+   Cost: 40.0
+ - Activity: Cycling
+   Description: Enjoy the nature breeze
+   Capacity: 0
+   Cost: 10.0
+Destination: Niagra Falls
+ - Activity: Boating
+   Description: Pedal into the beautiful waterfalls
+   Capacity: 2
+   Cost: 60.0
+ - Activity: Feeding
+   Description: Get a chance to feed dolphins in nearby waterpark
+   Capacity: 2
+   Cost: 30.0
+Select an Activity (enter activity name or 'confirm' to confirm booking): Boating
+
+Enrolled in activity: Boating
+Available Activities:
+Destination: Banff Forest
+ - Activity: Treckking
+   Description: Explore the Flora and Fauna
+   Capacity: 1
+   Cost: 40.0
+ - Activity: Cycling
+   Description: Enjoy the nature breeze
+   Capacity: 0
+   Cost: 10.0
+Destination: Niagra Falls
+ - Activity: Boating
+   Description: Pedal into the beautiful waterfalls
+   Capacity: 1
+   Cost: 60.0
+ - Activity: Feeding
+   Description: Get a chance to feed dolphins in nearby waterpark
+   Capacity: 2
+   Cost: 30.0
+Select an Activity (enter activity name or 'confirm' to confirm booking): Feeding
+
+Enrolled in activity: Feeding
+Available Activities:
+Destination: Banff Forest
+ - Activity: Treckking
+   Description: Explore the Flora and Fauna
+   Capacity: 1
+   Cost: 40.0
+ - Activity: Cycling
+   Description: Enjoy the nature breeze
+   Capacity: 0
+   Cost: 10.0
+Destination: Niagra Falls
+ - Activity: Boating
+   Description: Pedal into the beautiful waterfalls
+   Capacity: 1
+   Cost: 60.0
+ - Activity: Feeding
+   Description: Get a chance to feed dolphins in nearby waterpark
+   Capacity: 1
+   Cost: 30.0
+Select an Activity (enter activity name or 'confirm' to confirm booking): confirm
+Final Details for Akhil:
+Package Name: Canada Tour
+Destinations:
+ - Destination Name: Banff Forest
+   Activities:
+
+
+ - Destination Name: Niagra Falls
+   Activities:
+   - Activity Name: Boating
+     Description: Pedal into the beautiful waterfalls
+   - Activity Name: Feeding
+     Description: Get a chance to feed dolphins in nearby waterpark
+------------------------------
+Package Name: Canada Tour
+Destinations:
+ - Destination Name: Banff Forest
+   Activities:
+
+
+ - Destination Name: Niagra Falls
+   Activities:
+   - Activity Name: Boating
+     Description: Pedal into the beautiful waterfalls
+   - Activity Name: Feeding
+     Description: Get a chance to feed dolphins in nearby waterpark
+------------------------------
+Package Name: Canada Tour
+Destinations:
+ - Destination Name: Banff Forest
+   Activities:
+
+
+ - Destination Name: Niagra Falls
+   Activities:
+   - Activity Name: Boating
+     Description: Pedal into the beautiful waterfalls
+   - Activity Name: Feeding
+     Description: Get a chance to feed dolphins in nearby waterpark
+------------------------------
+Package Name: Canada Tour
+Destinations:
+ - Destination Name: Banff Forest
+   Activities:
+
+
+ - Destination Name: Niagra Falls
+   Activities:
+   - Activity Name: Boating
+     Description: Pedal into the beautiful waterfalls
+   - Activity Name: Feeding
+     Description: Get a chance to feed dolphins in nearby waterpark
+------------------------------
+
+Options:
+1. Choose a Tour Package
+2. Display Enrolled Packages
+3. Display Final Details
+4. Print Passenger Details
+5. Exit
+Enter your choice: 4
+Passenger Details:
+Name: Akhil
+Passenger Number: 1001
+Passenger Type: Standard
+Balance: $0.0
+
+Options:
+1. Choose a Tour Package
+2. Display Enrolled Packages
+3. Display Final Details
+4. Print Passenger Details
+5. Exit
+Enter your choice: 5
+Exiting.....
+Welcome to the Travel Booking System!
+Choose your role:
+1. Travel Agency
+2. Passenger
+3. Exit
+
+Choose your option: 2
+Passenger Interaction System
+1. New Passenger
+Enter your choice: 1
+Enter your name: Rohit
+Enter passenger type (Standard, Gold, Premium): Gold
+Enter initial balance: 200
+Hello, Rohit! Welcome to our travel agency.
+
+Options:
+1. Choose a Tour Package
+2. Display Enrolled Packages
+3. Display Final Details
+4. Print Passenger Details
+5. Exit
+Enter your choice: 1
+Available Travel Packages:
+1)Package Name: Canada Tour
+Passenger Capacity: 0
+Destinations:
+ - Destination Name: Banff Forest
+   Activities:
+   - Activity Name: Treckking
+     Description: Explore the Flora and Fauna
+     Capacity: 1
+     Cost: 40.0
+   - Activity Name: Cycling
+     Description: Enjoy the nature breeze
+     Capacity: 0
+     Cost: 10.0
+ - Destination Name: Niagra Falls
+   Activities:
+   - Activity Name: Boating
+     Description: Pedal into the beautiful waterfalls
+     Capacity: 1
+     Cost: 60.0
+   - Activity Name: Feeding
+     Description: Get a chance to feed dolphins in nearby waterpark
+     Capacity: 1
+     Cost: 30.0
+------------------------------
+2)Package Name: Dubai Tour
+Passenger Capacity: 3
+Destinations:
+ - Destination Name: Qatar
+   Activities:
+   - Activity Name: Swimming
+     Description: Join the Watersports event
+     Capacity: 5
+     Cost: 60.0
+   - Activity Name: Running
+     Description: Join the 20K running event
+     Capacity: 5
+     Cost: 50.0
+ - Destination Name: Atlantis
+   Activities:
+   - Activity Name: Relaxe
+     Description: Enjoy the holiday packs with 30% discount
+     Capacity: 5
+     Cost: 100.0
+   - Activity Name: Explore
+     Description: Atlantis is considered as 8th wonder, come and explore
+     Capacity: 3
+     Cost: 20.0
+   - Activity Name: Racing
+     Description: Get a chance to win premium cars on winning the race
+     Capacity: 2
+     Cost: 100.0
+ - Destination Name: Burj Khalifa
+   Activities:
+   - Activity Name: Skydive
+     Description: Skydive from the tallest building of the world
+     Capacity: 3
+     Cost: 150.0
+------------------------------
+Select a Travel Package (enter package number): 1
+Sorry, the selected package is already full. Please choose another package.
+
+Options:
+1. Choose a Tour Package
+2. Display Enrolled Packages
+3. Display Final Details
+4. Print Passenger Details
+5. Exit
+Enter your choice: 2
+Enrolled Packages for Rohit:
+No enrolled packages.
+
+Options:
+1. Choose a Tour Package
+2. Display Enrolled Packages
+3. Display Final Details
+4. Print Passenger Details
+5. Exit
+Enter your choice: 1
+Available Travel Packages:
+1)Package Name: Canada Tour
+Passenger Capacity: 0
+Destinations:
+ - Destination Name: Banff Forest
+   Activities:
+   - Activity Name: Treckking
+     Description: Explore the Flora and Fauna
+     Capacity: 1
+     Cost: 40.0
+   - Activity Name: Cycling
+     Description: Enjoy the nature breeze
+     Capacity: 0
+     Cost: 10.0
+ - Destination Name: Niagra Falls
+   Activities:
+   - Activity Name: Boating
+     Description: Pedal into the beautiful waterfalls
+     Capacity: 1
+     Cost: 60.0
+   - Activity Name: Feeding
+     Description: Get a chance to feed dolphins in nearby waterpark
+     Capacity: 1
+     Cost: 30.0
+------------------------------
+2)Package Name: Dubai Tour
+Passenger Capacity: 3
+Destinations:
+ - Destination Name: Qatar
+   Activities:
+   - Activity Name: Swimming
+     Description: Join the Watersports event
+     Capacity: 5
+     Cost: 60.0
+   - Activity Name: Running
+     Description: Join the 20K running event
+     Capacity: 5
+     Cost: 50.0
+ - Destination Name: Atlantis
+   Activities:
+   - Activity Name: Relaxe
+     Description: Enjoy the holiday packs with 30% discount
+     Capacity: 5
+     Cost: 100.0
+   - Activity Name: Explore
+     Description: Atlantis is considered as 8th wonder, come and explore
+     Capacity: 3
+     Cost: 20.0
+   - Activity Name: Racing
+     Description: Get a chance to win premium cars on winning the race
+     Capacity: 2
+     Cost: 100.0
+ - Destination Name: Burj Khalifa
+   Activities:
+   - Activity Name: Skydive
+     Description: Skydive from the tallest building of the world
+     Capacity: 3
+     Cost: 150.0
+------------------------------
+Select a Travel Package (enter package number): 2
+Entered number doesnt match the package
+You have selected the package: Dubai Tour
+Passenger: Rohit (ID: 1002)
+Available Activities:
+Destination: Qatar
+ - Activity: Swimming
+   Description: Join the Watersports event
+   Capacity: 5
+   Cost: 60.0
+ - Activity: Running
+   Description: Join the 20K running event
+   Capacity: 5
+   Cost: 50.0
+Destination: Atlantis
+ - Activity: Relaxe
+   Description: Enjoy the holiday packs with 30% discount
+   Capacity: 5
+   Cost: 100.0
+ - Activity: Explore
+   Description: Atlantis is considered as 8th wonder, come and explore
+   Capacity: 3
+   Cost: 20.0
+ - Activity: Racing
+   Description: Get a chance to win premium cars on winning the race
+   Capacity: 2
+   Cost: 100.0
+Destination: Burj Khalifa
+ - Activity: Skydive
+   Description: Skydive from the tallest building of the world
+   Capacity: 3
+   Cost: 150.0
+Select an Activity (enter activity name or 'confirm' to confirm booking): Relaxe
+
+Enrolled in activity: Relaxe (Gold Discount Applied)
+Available Activities:
+Destination: Qatar
+ - Activity: Swimming
+   Description: Join the Watersports event
+   Capacity: 5
+   Cost: 60.0
+ - Activity: Running
+   Description: Join the 20K running event
+   Capacity: 5
+   Cost: 50.0
+Destination: Atlantis
+ - Activity: Relaxe
+   Description: Enjoy the holiday packs with 30% discount
+   Capacity: 4
+   Cost: 100.0
+ - Activity: Explore
+   Description: Atlantis is considered as 8th wonder, come and explore
+   Capacity: 3
+   Cost: 20.0
+ - Activity: Racing
+   Description: Get a chance to win premium cars on winning the race
+   Capacity: 2
+   Cost: 100.0
+Destination: Burj Khalifa
+ - Activity: Skydive
+   Description: Skydive from the tallest building of the world
+   Capacity: 3
+   Cost: 150.0
+Select an Activity (enter activity name or 'confirm' to confirm booking): Racing
+
+Enrolled in activity: Racing (Gold Discount Applied)
+Available Activities:
+Destination: Qatar
+ - Activity: Swimming
+   Description: Join the Watersports event
+   Capacity: 5
+   Cost: 60.0
+ - Activity: Running
+   Description: Join the 20K running event
+   Capacity: 5
+   Cost: 50.0
+Destination: Atlantis
+ - Activity: Relaxe
+   Description: Enjoy the holiday packs with 30% discount
+   Capacity: 4
+   Cost: 100.0
+ - Activity: Explore
+   Description: Atlantis is considered as 8th wonder, come and explore
+   Capacity: 3
+   Cost: 20.0
+ - Activity: Racing
+   Description: Get a chance to win premium cars on winning the race
+   Capacity: 1
+   Cost: 100.0
+Destination: Burj Khalifa
+ - Activity: Skydive
+   Description: Skydive from the tallest building of the world
+   Capacity: 3
+   Cost: 150.0
+Select an Activity (enter activity name or 'confirm' to confirm booking): Explore
+
+Enrolled in activity: Explore (Gold Discount Applied)
+Available Activities:
+Destination: Qatar
+ - Activity: Swimming
+   Description: Join the Watersports event
+   Capacity: 5
+   Cost: 60.0
+ - Activity: Running
+   Description: Join the 20K running event
+   Capacity: 5
+   Cost: 50.0
+Destination: Atlantis
+ - Activity: Relaxe
+   Description: Enjoy the holiday packs with 30% discount
+   Capacity: 4
+   Cost: 100.0
+ - Activity: Explore
+   Description: Atlantis is considered as 8th wonder, come and explore
+   Capacity: 2
+   Cost: 20.0
+ - Activity: Racing
+   Description: Get a chance to win premium cars on winning the race
+   Capacity: 1
+   Cost: 100.0
+Destination: Burj Khalifa
+ - Activity: Skydive
+   Description: Skydive from the tallest building of the world
+   Capacity: 3
+   Cost: 150.0
+Select an Activity (enter activity name or 'confirm' to confirm booking): Skydive
+
+Insufficient balance. Cannot enroll in the activity.
+Available Activities:
+Destination: Qatar
+ - Activity: Swimming
+   Description: Join the Watersports event
+   Capacity: 5
+   Cost: 60.0
+ - Activity: Running
+   Description: Join the 20K running event
+   Capacity: 5
+   Cost: 50.0
+Destination: Atlantis
+ - Activity: Relaxe
+   Description: Enjoy the holiday packs with 30% discount
+   Capacity: 4
+   Cost: 100.0
+ - Activity: Explore
+   Description: Atlantis is considered as 8th wonder, come and explore
+   Capacity: 2
+   Cost: 20.0
+ - Activity: Racing
+   Description: Get a chance to win premium cars on winning the race
+   Capacity: 1
+   Cost: 100.0
+Destination: Burj Khalifa
+ - Activity: Skydive
+   Description: Skydive from the tallest building of the world
+   Capacity: 3
+   Cost: 150.0
+Select an Activity (enter activity name or 'confirm' to confirm booking): confirm
+Final Details for Rohit:
+Package Name: Dubai Tour
+Destinations:
+ - Destination Name: Qatar
+   Activities:
+
+
+
+ - Destination Name: Atlantis
+   Activities:
+   - Activity Name: Relaxe
+     Description: Enjoy the holiday packs with 30% discount
+   - Activity Name: Racing
+     Description: Get a chance to win premium cars on winning the race
+   - Activity Name: Explore
+     Description: Atlantis is considered as 8th wonder, come and explore
+ - Destination Name: Burj Khalifa
+   Activities:
+
+
+
+------------------------------
+Package Name: Dubai Tour
+Destinations:
+ - Destination Name: Qatar
+   Activities:
+
+
+
+ - Destination Name: Atlantis
+   Activities:
+   - Activity Name: Relaxe
+     Description: Enjoy the holiday packs with 30% discount
+   - Activity Name: Racing
+     Description: Get a chance to win premium cars on winning the race
+   - Activity Name: Explore
+     Description: Atlantis is considered as 8th wonder, come and explore
+ - Destination Name: Burj Khalifa
+   Activities:
+
+
+
+------------------------------
+Package Name: Dubai Tour
+Destinations:
+ - Destination Name: Qatar
+   Activities:
+
+
+
+ - Destination Name: Atlantis
+   Activities:
+   - Activity Name: Relaxe
+     Description: Enjoy the holiday packs with 30% discount
+   - Activity Name: Racing
+     Description: Get a chance to win premium cars on winning the race
+   - Activity Name: Explore
+     Description: Atlantis is considered as 8th wonder, come and explore
+ - Destination Name: Burj Khalifa
+   Activities:
+
+
+
+------------------------------
+Package Name: Dubai Tour
+Destinations:
+ - Destination Name: Qatar
+   Activities:
+
+
+
+ - Destination Name: Atlantis
+   Activities:
+   - Activity Name: Relaxe
+     Description: Enjoy the holiday packs with 30% discount
+   - Activity Name: Racing
+     Description: Get a chance to win premium cars on winning the race
+   - Activity Name: Explore
+     Description: Atlantis is considered as 8th wonder, come and explore
+ - Destination Name: Burj Khalifa
+   Activities:
+
+
+
+------------------------------
+
+Options:
+1. Choose a Tour Package
+2. Display Enrolled Packages
+3. Display Final Details
+4. Print Passenger Details
+5. Exit
+Enter your choice: 3
+Final Details for Rohit:
+Package Name: Dubai Tour
+Destinations:
+ - Destination Name: Qatar
+   Activities:
+
+
+
+ - Destination Name: Atlantis
+   Activities:
+   - Activity Name: Relaxe
+     Description: Enjoy the holiday packs with 30% discount
+   - Activity Name: Racing
+     Description: Get a chance to win premium cars on winning the race
+   - Activity Name: Explore
+     Description: Atlantis is considered as 8th wonder, come and explore
+ - Destination Name: Burj Khalifa
+   Activities:
+
+
+
+------------------------------
+Package Name: Dubai Tour
+Destinations:
+ - Destination Name: Qatar
+   Activities:
+
+
+
+ - Destination Name: Atlantis
+   Activities:
+   - Activity Name: Relaxe
+     Description: Enjoy the holiday packs with 30% discount
+   - Activity Name: Racing
+     Description: Get a chance to win premium cars on winning the race
+   - Activity Name: Explore
+     Description: Atlantis is considered as 8th wonder, come and explore
+ - Destination Name: Burj Khalifa
+   Activities:
+
+
+
+------------------------------
+Package Name: Dubai Tour
+Destinations:
+ - Destination Name: Qatar
+   Activities:
+
+
+
+ - Destination Name: Atlantis
+   Activities:
+   - Activity Name: Relaxe
+     Description: Enjoy the holiday packs with 30% discount
+   - Activity Name: Racing
+     Description: Get a chance to win premium cars on winning the race
+   - Activity Name: Explore
+     Description: Atlantis is considered as 8th wonder, come and explore
+ - Destination Name: Burj Khalifa
+   Activities:
+
+
+
+------------------------------
+Package Name: Dubai Tour
+Destinations:
+ - Destination Name: Qatar
+   Activities:
+
+
+
+ - Destination Name: Atlantis
+   Activities:
+   - Activity Name: Relaxe
+     Description: Enjoy the holiday packs with 30% discount
+   - Activity Name: Racing
+     Description: Get a chance to win premium cars on winning the race
+   - Activity Name: Explore
+     Description: Atlantis is considered as 8th wonder, come and explore
+ - Destination Name: Burj Khalifa
+   Activities:
+
+
+
+------------------------------
+
+Options:
+1. Choose a Tour Package
+2. Display Enrolled Packages
+3. Display Final Details
+4. Print Passenger Details
+5. Exit
+Enter your choice: 4
+Passenger Details:
+Name: Rohit
+Passenger Number: 1002
+Passenger Type: Gold
+Balance: $2.0
+
+Options:
+1. Choose a Tour Package
+2. Display Enrolled Packages
+3. Display Final Details
+4. Print Passenger Details
+5. Exit
+Enter your choice: 5
+Exiting.....
+Welcome to the Travel Booking System!
+Choose your role:
+1. Travel Agency
+2. Passenger
+3. Exit
+
+Choose your option: 2
+Passenger Interaction System
+1. New Passenger
+Enter your choice: 1
+Enter your name: Varun
+Enter passenger type (Standard, Gold, Premium): Premium
+Enter initial balance: 500
+Hello, Varun! Welcome to our travel agency.
+
+Options:
+1. Choose a Tour Package
+2. Display Enrolled Packages
+3. Display Final Details
+4. Print Passenger Details
+5. Exit
+Enter your choice: 1
+Available Travel Packages:
+1)Package Name: Canada Tour
+Passenger Capacity: 0
+Destinations:
+ - Destination Name: Banff Forest
+   Activities:
+   - Activity Name: Treckking
+     Description: Explore the Flora and Fauna
+     Capacity: 1
+     Cost: 40.0
+   - Activity Name: Cycling
+     Description: Enjoy the nature breeze
+     Capacity: 0
+     Cost: 10.0
+ - Destination Name: Niagra Falls
+   Activities:
+   - Activity Name: Boating
+     Description: Pedal into the beautiful waterfalls
+     Capacity: 1
+     Cost: 60.0
+   - Activity Name: Feeding
+     Description: Get a chance to feed dolphins in nearby waterpark
+     Capacity: 1
+     Cost: 30.0
+------------------------------
+2)Package Name: Dubai Tour
+Passenger Capacity: 2
+Destinations:
+ - Destination Name: Qatar
+   Activities:
+   - Activity Name: Swimming
+     Description: Join the Watersports event
+     Capacity: 5
+     Cost: 60.0
+   - Activity Name: Running
+     Description: Join the 20K running event
+     Capacity: 5
+     Cost: 50.0
+ - Destination Name: Atlantis
+   Activities:
+   - Activity Name: Relaxe
+     Description: Enjoy the holiday packs with 30% discount
+     Capacity: 4
+     Cost: 100.0
+   - Activity Name: Explore
+     Description: Atlantis is considered as 8th wonder, come and explore
+     Capacity: 2
+     Cost: 20.0
+   - Activity Name: Racing
+     Description: Get a chance to win premium cars on winning the race
+     Capacity: 1
+     Cost: 100.0
+ - Destination Name: Burj Khalifa
+   Activities:
+   - Activity Name: Skydive
+     Description: Skydive from the tallest building of the world
+     Capacity: 3
+     Cost: 150.0
+------------------------------
+Select a Travel Package (enter package number): 1
+Sorry, the selected package is already full. Please choose another package.
+
+Options:
+1. Choose a Tour Package
+2. Display Enrolled Packages
+3. Display Final Details
+4. Print Passenger Details
+5. Exit
+Enter your choice: 1
+Available Travel Packages:
+1)Package Name: Canada Tour
+Passenger Capacity: 0
+Destinations:
+ - Destination Name: Banff Forest
+   Activities:
+   - Activity Name: Treckking
+     Description: Explore the Flora and Fauna
+     Capacity: 1
+     Cost: 40.0
+   - Activity Name: Cycling
+     Description: Enjoy the nature breeze
+     Capacity: 0
+     Cost: 10.0
+ - Destination Name: Niagra Falls
+   Activities:
+   - Activity Name: Boating
+     Description: Pedal into the beautiful waterfalls
+     Capacity: 1
+     Cost: 60.0
+   - Activity Name: Feeding
+     Description: Get a chance to feed dolphins in nearby waterpark
+     Capacity: 1
+     Cost: 30.0
+------------------------------
+2)Package Name: Dubai Tour
+Passenger Capacity: 2
+Destinations:
+ - Destination Name: Qatar
+   Activities:
+   - Activity Name: Swimming
+     Description: Join the Watersports event
+     Capacity: 5
+     Cost: 60.0
+   - Activity Name: Running
+     Description: Join the 20K running event
+     Capacity: 5
+     Cost: 50.0
+ - Destination Name: Atlantis
+   Activities:
+   - Activity Name: Relaxe
+     Description: Enjoy the holiday packs with 30% discount
+     Capacity: 4
+     Cost: 100.0
+   - Activity Name: Explore
+     Description: Atlantis is considered as 8th wonder, come and explore
+     Capacity: 2
+     Cost: 20.0
+   - Activity Name: Racing
+     Description: Get a chance to win premium cars on winning the race
+     Capacity: 1
+     Cost: 100.0
+ - Destination Name: Burj Khalifa
+   Activities:
+   - Activity Name: Skydive
+     Description: Skydive from the tallest building of the world
+     Capacity: 3
+     Cost: 150.0
+------------------------------
+Select a Travel Package (enter package number): 2
+Entered number doesnt match the package
+You have selected the package: Dubai Tour
+Passenger: Varun (ID: 1003)
+Available Activities:
+Destination: Qatar
+ - Activity: Swimming
+   Description: Join the Watersports event
+   Capacity: 5
+   Cost: 60.0
+ - Activity: Running
+   Description: Join the 20K running event
+   Capacity: 5
+   Cost: 50.0
+Destination: Atlantis
+ - Activity: Relaxe
+   Description: Enjoy the holiday packs with 30% discount
+   Capacity: 4
+   Cost: 100.0
+ - Activity: Explore
+   Description: Atlantis is considered as 8th wonder, come and explore
+   Capacity: 2
+   Cost: 20.0
+ - Activity: Racing
+   Description: Get a chance to win premium cars on winning the race
+   Capacity: 1
+   Cost: 100.0
+Destination: Burj Khalifa
+ - Activity: Skydive
+   Description: Skydive from the tallest building of the world
+   Capacity: 3
+   Cost: 150.0
+Select an Activity (enter activity name or 'confirm' to confirm booking): Swimming
+
+Enrolled in activity: Swimming (Premium Passenger - Free)
+Available Activities:
+Destination: Qatar
+ - Activity: Swimming
+   Description: Join the Watersports event
+   Capacity: 4
+   Cost: 60.0
+ - Activity: Running
+   Description: Join the 20K running event
+   Capacity: 5
+   Cost: 50.0
+Destination: Atlantis
+ - Activity: Relaxe
+   Description: Enjoy the holiday packs with 30% discount
+   Capacity: 4
+   Cost: 100.0
+ - Activity: Explore
+   Description: Atlantis is considered as 8th wonder, come and explore
+   Capacity: 2
+   Cost: 20.0
+ - Activity: Racing
+   Description: Get a chance to win premium cars on winning the race
+   Capacity: 1
+   Cost: 100.0
+Destination: Burj Khalifa
+ - Activity: Skydive
+   Description: Skydive from the tallest building of the world
+   Capacity: 3
+   Cost: 150.0
+Select an Activity (enter activity name or 'confirm' to confirm booking): Running
+
+Enrolled in activity: Running (Premium Passenger - Free)
+Available Activities:
+Destination: Qatar
+ - Activity: Swimming
+   Description: Join the Watersports event
+   Capacity: 4
+   Cost: 60.0
+ - Activity: Running
+   Description: Join the 20K running event
+   Capacity: 4
+   Cost: 50.0
+Destination: Atlantis
+ - Activity: Relaxe
+   Description: Enjoy the holiday packs with 30% discount
+   Capacity: 4
+   Cost: 100.0
+ - Activity: Explore
+   Description: Atlantis is considered as 8th wonder, come and explore
+   Capacity: 2
+   Cost: 20.0
+ - Activity: Racing
+   Description: Get a chance to win premium cars on winning the race
+   Capacity: 1
+   Cost: 100.0
+Destination: Burj Khalifa
+ - Activity: Skydive
+   Description: Skydive from the tallest building of the world
+   Capacity: 3
+   Cost: 150.0
+Select an Activity (enter activity name or 'confirm' to confirm booking): Relaxe
+
+Enrolled in activity: Relaxe (Premium Passenger - Free)
+Available Activities:
+Destination: Qatar
+ - Activity: Swimming
+   Description: Join the Watersports event
+   Capacity: 4
+   Cost: 60.0
+ - Activity: Running
+   Description: Join the 20K running event
+   Capacity: 4
+   Cost: 50.0
+Destination: Atlantis
+ - Activity: Relaxe
+   Description: Enjoy the holiday packs with 30% discount
+   Capacity: 3
+   Cost: 100.0
+ - Activity: Explore
+   Description: Atlantis is considered as 8th wonder, come and explore
+   Capacity: 2
+   Cost: 20.0
+ - Activity: Racing
+   Description: Get a chance to win premium cars on winning the race
+   Capacity: 1
+   Cost: 100.0
+Destination: Burj Khalifa
+ - Activity: Skydive
+   Description: Skydive from the tallest building of the world
+   Capacity: 3
+   Cost: 150.0
+Select an Activity (enter activity name or 'confirm' to confirm booking): Racing
+
+Enrolled in activity: Racing (Premium Passenger - Free)
+Available Activities:
+Destination: Qatar
+ - Activity: Swimming
+   Description: Join the Watersports event
+   Capacity: 4
+   Cost: 60.0
+ - Activity: Running
+   Description: Join the 20K running event
+   Capacity: 4
+   Cost: 50.0
+Destination: Atlantis
+ - Activity: Relaxe
+   Description: Enjoy the holiday packs with 30% discount
+   Capacity: 3
+   Cost: 100.0
+ - Activity: Explore
+   Description: Atlantis is considered as 8th wonder, come and explore
+   Capacity: 2
+   Cost: 20.0
+ - Activity: Racing
+   Description: Get a chance to win premium cars on winning the race
+   Capacity: 1
+   Cost: 100.0
+Destination: Burj Khalifa
+ - Activity: Skydive
+   Description: Skydive from the tallest building of the world
+   Capacity: 3
+   Cost: 150.0
+Select an Activity (enter activity name or 'confirm' to confirm booking): confirm
+Final Details for Varun:
+Package Name: Dubai Tour
+Destinations:
+ - Destination Name: Qatar
+   Activities:
+   - Activity Name: Swimming
+     Description: Join the Watersports event
+   - Activity Name: Running
+     Description: Join the 20K running event
+
+
+ - Destination Name: Atlantis
+   Activities:
+
+
+   - Activity Name: Relaxe
+     Description: Enjoy the holiday packs with 30% discount
+   - Activity Name: Racing
+     Description: Get a chance to win premium cars on winning the race
+ - Destination Name: Burj Khalifa
+   Activities:
+
+
+
+
+------------------------------
+Package Name: Dubai Tour
+Destinations:
+ - Destination Name: Qatar
+   Activities:
+   - Activity Name: Swimming
+     Description: Join the Watersports event
+   - Activity Name: Running
+     Description: Join the 20K running event
+
+
+ - Destination Name: Atlantis
+   Activities:
+
+
+   - Activity Name: Relaxe
+     Description: Enjoy the holiday packs with 30% discount
+   - Activity Name: Racing
+     Description: Get a chance to win premium cars on winning the race
+ - Destination Name: Burj Khalifa
+   Activities:
+
+
+
+
+------------------------------
+Package Name: Dubai Tour
+Destinations:
+ - Destination Name: Qatar
+   Activities:
+   - Activity Name: Swimming
+     Description: Join the Watersports event
+   - Activity Name: Running
+     Description: Join the 20K running event
+
+
+ - Destination Name: Atlantis
+   Activities:
+
+
+   - Activity Name: Relaxe
+     Description: Enjoy the holiday packs with 30% discount
+   - Activity Name: Racing
+     Description: Get a chance to win premium cars on winning the race
+ - Destination Name: Burj Khalifa
+   Activities:
+
+
+
+
+------------------------------
+Package Name: Dubai Tour
+Destinations:
+ - Destination Name: Qatar
+   Activities:
+   - Activity Name: Swimming
+     Description: Join the Watersports event
+   - Activity Name: Running
+     Description: Join the 20K running event
+
+
+ - Destination Name: Atlantis
+   Activities:
+
+
+   - Activity Name: Relaxe
+     Description: Enjoy the holiday packs with 30% discount
+   - Activity Name: Racing
+     Description: Get a chance to win premium cars on winning the race
+ - Destination Name: Burj Khalifa
+   Activities:
+
+
+
+
+------------------------------
+Package Name: Dubai Tour
+Destinations:
+ - Destination Name: Qatar
+   Activities:
+   - Activity Name: Swimming
+     Description: Join the Watersports event
+   - Activity Name: Running
+     Description: Join the 20K running event
+
+
+ - Destination Name: Atlantis
+   Activities:
+
+
+   - Activity Name: Relaxe
+     Description: Enjoy the holiday packs with 30% discount
+   - Activity Name: Racing
+     Description: Get a chance to win premium cars on winning the race
+ - Destination Name: Burj Khalifa
+   Activities:
+
+
+
+
+------------------------------
+
+Options:
+1. Choose a Tour Package
+2. Display Enrolled Packages
+3. Display Final Details
+4. Print Passenger Details
+5. Exit
+Enter your choice: 4
+Passenger Details:
+Name: Varun
+Passenger Number: 1003
+Passenger Type: Premium
+Balance: $500.0
+
+Options:
+1. Choose a Tour Package
+2. Display Enrolled Packages
+3. Display Final Details
+4. Print Passenger Details
+5. Exit
+Enter your choice: 5
+Exiting.....
+Welcome to the Travel Booking System!
+Choose your role:
+1. Travel Agency
+2. Passenger
+3. Exit
+
+Choose your option: 1
+
+System successfully initialized for the 'Travel Agency'
+
+Travel Agency Main Menu:
+1. Create Packages
+2. Display Package Details
+3. Display Passengers
+4. Exit
+Enter your choice: 2
+Displaying details...
+Package Name: Canada Tour
+Passenger Capacity: 0
+	Destination Name: Banff Forest
+		Activity Name: Treckking
+		Description: Explore the Flora and Fauna
+		Cost: 40.0
+		Capacity: 1
+		Activity Name: Cycling
+		Description: Enjoy the nature breeze
+		Cost: 10.0
+		Capacity: 0
+	Destination Name: Niagra Falls
+		Activity Name: Boating
+		Description: Pedal into the beautiful waterfalls
+		Cost: 60.0
+		Capacity: 1
+		Activity Name: Feeding
+		Description: Get a chance to feed dolphins in nearby waterpark
+		Cost: 30.0
+		Capacity: 1
+
+Package Name: Dubai Tour
+Passenger Capacity: 1
+	Destination Name: Qatar
+		Activity Name: Swimming
+		Description: Join the Watersports event
+		Cost: 60.0
+		Capacity: 4
+		Activity Name: Running
+		Description: Join the 20K running event
+		Cost: 50.0
+		Capacity: 4
+	Destination Name: Atlantis
+		Activity Name: Relaxe
+		Description: Enjoy the holiday packs with 30% discount
+		Cost: 100.0
+		Capacity: 3
+		Activity Name: Explore
+		Description: Atlantis is considered as 8th wonder, come and explore
+		Cost: 20.0
+		Capacity: 2
+		Activity Name: Racing
+		Description: Get a chance to win premium cars on winning the race
+		Cost: 100.0
+		Capacity: 1
+	Destination Name: Burj Khalifa
+		Activity Name: Skydive
+		Description: Skydive from the tallest building of the world
+		Cost: 150.0
+		Capacity: 3
+
+
+Travel Agency Main Menu:
+1. Create Packages
+2. Display Package Details
+3. Display Passengers
+4. Exit
+Enter your choice: 3
+Printing Passenger List for Travel Packages...
+Travel Package Name: Canada Tour
+Passenger Capacity: 0
+Number of Passengers Enrolled: 1
+	Passenger Name: Akhil
+	Passenger Number: 1001
+
+Travel Package Name: Dubai Tour
+Passenger Capacity: 1
+Number of Passengers Enrolled: 2
+	Passenger Name: Rohit
+	Passenger Number: 1002
+	Passenger Name: Varun
+	Passenger Number: 1003
+
+
+Travel Agency Main Menu:
+1. Create Packages
+2. Display Package Details
+3. Display Passengers
+4. Exit
+Enter your choice: 4
+Exiting Travel Agency. Goodbye!
+Welcome to the Travel Booking System!
+Choose your role:
+1. Travel Agency
+2. Passenger
+3. Exit
+
+Choose your option: 3
+Exiting the program. Goodbye!
+BUILD SUCCESSFUL (total time: 24 minutes 4 seconds)
